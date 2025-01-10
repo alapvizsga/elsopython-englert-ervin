@@ -5,6 +5,7 @@ def osszead(szam1, szam2):
         visszatér a két szám összegével.
     """
     pass # Írd a kódodat a következő sorokba!
+    return szam1 + szam2
 
 
 #assert osszead(14, -8) == 6
